@@ -27,3 +27,7 @@ El segundo fichero (EDA_Parcial_Final_HPC.ipynb) es un cuaderno hecho en Google 
 ## Autor
 
 Examen realizado por Jonathan Alexander Torres Benítez
+
+## Archivos utilizados 
+
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
