@@ -13,3 +13,7 @@ El primero de ellos (la carpeta LinearProject) dirige a los archivos fuente del 
 ## EDA_Parcial_Final_HPC.ipynb
 
 El segundo fichero (EDA_Parcial_Final_HPC.ipynb) es un cuaderno hecho en Google Colab que dirige al desarrollo del proyecto en Python y que incluye la documentación, exploración, análisis comparativa de modelos, conclusiones y referencias. El cuerpo del trabajo está concentrado en este documento. 
+
+## Autor
+
+Examen realizado por Jonathan Alexander Torres Benítez
