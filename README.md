@@ -4,7 +4,17 @@
 
 Presentado por: Jonathan Alexander Torres Benítez
 
-En este repositorio se encuentran presente dos ficheros. 
+Profesor: John Jairo Corredor Franco, PhD
+
+# Introducción
+
+La analítica de datos comprende una serie de tópicos que toma como base la existencia de un conjunto de datos presentes en el ambiente, estos datos pueden ser sobre el clima, sobre eventos económicos y/o actividades que impliquen la generación de fenómenos susceptibles a la interpretación humana, lo cual es conocido como información. En vano no existe el adagio popular, "el conocimiento es poder", quien tiene el acceso a la información puede transformar el mundo, y esa es la larga lucha de los analistas de datos, el predecir el mejor resultado posible con base en la información extraíble de la data disponible.
+
+En esta ocasión, en la búsqueda de acercarse a tal mundo, se realiza el análisis y modelado de datos a un conjunto de datos denominado Breast Cancer Wisconsin (Original) y el objetivo será predecir la probabilidad de que un paciente pueda o no tener células cancerígenas mamarias de acuerdo con una serie de atributos proporcionados por el conjunto de datos. 
+
+La técnica que se utiliza para esta práctica es la Regresión Lineal, la cual ha sido modelada en dos lenguajes de programación. El primero de ellos, C++, utilizando nociones de álgebra lineal a través de la biblioteca Eigen, y el segundo, hecho en Python usando bibliotecas como Numpy, Pandas y Scikitlearn. El objetivo es comparar el rendimiento del modelo en ambos desarrollos y obtener una predicción que cumpla satisfactoriamente con los criterios de detección de cáncer de mama. 
+
+Finalmente, en este repositorio se encuentran presentes dos tipos de ficheros. 
 
 ## LinearProject (C++)
 
