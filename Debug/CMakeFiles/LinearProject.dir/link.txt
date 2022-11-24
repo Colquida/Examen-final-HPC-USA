@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/LinearProject.dir/main.cpp.o CMakeFiles/LinearProject.dir/ClassExtraction/extractiondata.cpp.o CMakeFiles/LinearProject.dir/Regression/regression.cpp.o -o LinearProject 
